@@ -1,2 +1,3 @@
 data_raw/mincit/
 .ipynb_checkpoints/
+data_processed/mincit/pdf_ocr
