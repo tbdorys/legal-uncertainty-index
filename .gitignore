@@ -1,3 +1,6 @@
 data_raw/mincit/
 .ipynb_checkpoints/
 data_processed/mincit/pdf_ocr
+notebooks/downloads_manifest.csv
+notebooks/manifest_ocr.csv
+data_processed/mincit/manifests/manifest_ocr.csv
