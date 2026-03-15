@@ -1,4 +1,4 @@
-# \# Legal Uncertainty Index (IIJ)
+# Legal Uncertainty Index (IIJ)
 
 
 
@@ -10,7 +10,7 @@ The current stage of the project focuses on the ingestion and organization of re
 
 
 
-## \## Project Objective
+## Project Objective
 
 
 
@@ -32,7 +32,7 @@ Specifically, the project aims to:
 
 
 
-## \## Data Source
+## Data Source
 
 
 
@@ -50,7 +50,7 @@ These documents correspond to regulatory proposals released for public consultat
 
 
 
-## \## Project Structure
+## Project Structure
 
 
 
@@ -104,7 +104,5 @@ legal-uncertainty-index
 
 
 
-## \## Workflow
-
-
+## Workflow
 
