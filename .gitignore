@@ -4,3 +4,10 @@ data_processed/mincit/pdf_ocr
 notebooks/downloads_manifest.csv
 notebooks/manifest_ocr.csv
 data_processed/mincit/manifests/manifest_ocr.csv
+data_processed/mincit/manifests/manifest_ocr.csv
+.Rhistory
+data_processed/mincit/manifests/manifest_ocr.csv
+data_processed/pdf_ocr
+data_processed/txt_normative_rag
+legal-uncertainty-index/data_raw
+data_raw/
