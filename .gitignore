@@ -11,3 +11,4 @@ data_processed/pdf_ocr
 data_processed/txt_normative_rag
 legal-uncertainty-index/data_raw
 data_raw/
+data_processed/corpus_clean
