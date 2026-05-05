@@ -9,6 +9,8 @@ MALFORMED_LEMMA_CORRECTIONS = {
     "polizar": "poliza",
     "codecir": "codigo",
     "zipaquirir": "zipaquira",
+    "gravamir":"gravamen",
+    "actar": "acta",
 
     # malformed nouns and adjectives
     "pequenar": "pequeno",
@@ -220,6 +222,19 @@ MALFORMED_LEMMA_CORRECTIONS = {
     "aprobarar": "aprobar",
     "reactivarar": "reactivar",
     "adeclarar": "declarar",
+    "abstendrar": "abstener",
+    "abudinir": "abudir",
+    "accederar": "acceder",
+    "accedero": "acceder",
+    "acepado": "aceptado",
+    "aciet": "",
+    "aclar": "aclarar",
+    "aclararir": "aclarar",
+    "acojar": "acoger",
+    "acompan": "acompanar",
+    "acord": "acordar",
+    "acordir": "acordar",
+    "acreditir": "acreditar",
 
     # OCR noise / unclear fragments
     "ruser": "",
