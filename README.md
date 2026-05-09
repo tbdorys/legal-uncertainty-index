@@ -57,109 +57,57 @@ These documents correspond to regulatory proposals released for public consultat
 legal-uncertainty-index/
 
 │
-
 ├── data\_raw/
-
 │   └── web\_scraping/
-
 │
-
 ├── data\_processed/
-
 │   ├── pdf\_ocr/
-
 │   │
-
 │   ├── txt\_normative\_rag/
-
 │   │
-
 │   ├── corpus\_clean/
-
 │   │   ├── basic\_clean/
-
 │   │   ├── normalized/
-
 │   │   ├── nlp\_clean/
-
 │   │   ├── tokens/
-
 │   │   ├── tokens\_no\_stopwords/
-
 │   │   └── tokens\_lemmas/
-
 │   │
-
 │   ├── vectorization/
-
 │   │   ├── dtm\_bow.csv
-
 │   │   ├── dtm\_tfidf.csv
-
 │   │   ├── vocabulary.csv
-
 │   │   └── top\_tfidf\_terms.csv
-
 │   │
-
 │   ├── cooccurrence/
-
 │   │   ├── cooccurrence\_edges.csv
-
 │   │   └── cooccurrence\_matrix.csv
-
 │   │
-
 │   └── manifests/
-
 │       ├── manifest\_pdf\_ocr.csv
-
 │       ├── manifest\_txt\_normative\_rag.csv
-
 │       ├── manifest\_basic\_clean.csv
-
 │       ├── manifest\_normalized.csv
-
 │       ├── manifest\_nlp\_clean.csv
-
 │       ├── manifest\_tokens.csv
-
 │       ├── manifest\_stopwords.csv
-
 │       ├── manifest\_lemmas.csv
-
 │       ├── manifest\_vectorization.csv
-
 │       └── manifest\_cooccurrence.csv
-
 │
-
 ├── notebooks/
-
 │   ├── 01\_mincit\_scraping.ipynb
-
 │   ├── 02\_preprocess\_ocr.ipynb
-
 │   ├── 03\_normative\_extraction\_llm.ipynb
-
 │   ├── 04\_normative\_corpus\_structuring.ipynb
-
 │   ├── 05\_nlp\_preprocessing.ipynb
-
 │   ├── 06\_nlp\_vectorization.ipynb
-
 │   └── 07\_nlp\_cooccurrence.ipynb
-
 │
-
 ├── src\_python/
-
 │   ├── \_\_init\_\_.py
-
 │   └── correction\_dictionary.py
-
 │
-
 └── .gitignore
 
 ## Workflow
